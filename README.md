@@ -4,6 +4,10 @@ This is the repository for modified twinkle.js and related assets of Battlefield
 
 本仓库存储由本组织修改后的《战地风云 1》的界面 JavaScript 文件及相关二进制资源。
 
+Please send your feedback to [Issues](https://paratranz.cn/projects/8862/issues) on ParaTranz.
+
+请直接在 [ParaTranz 讨论区](https://paratranz.cn/projects/8862/issues) 发表反馈。
+
 ## Disclaimer 免责声明
 This project is for learning and communication purposes only, and is strictly prohibited for commercial use. Please delete it within 24 hours after downloading.
 
